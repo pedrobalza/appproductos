@@ -1,4 +1,4 @@
-var serviceURL = "http://localhost/appempleados/services/";
+var serviceURL = "http://lighthousetattoo.info/appproductos/services/";
 
 var employees;
 
